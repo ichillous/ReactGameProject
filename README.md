@@ -2,4 +2,4 @@
 
 CD into Directory and run npm start within your terminal 
 
-![screen shot](https://imgur.com/a/82cnyoZ)
+![Alt text](https://imgur.com/a/82cnyoZ)
